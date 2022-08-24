@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>cadastro</title>
+</head>
+<body>
+    <form>
+      Nome:  <input type="text"></imput>
+    <br> 
+      telefone: <input type="text"></imput>
+    <br>
+    <h2>Sabor Favorito </h2>
+        <input type="radio">salgado</input>
+        <input type="radio">doce</input>
+        <input type="radio">azedo</input>
+        <input type="radio">picante</input>
+        <input type="radio">amargo</input>   
+    <br>
+    <h2>matérias favoritas</h2>
+<input type="checkbox">Ling.Cod</input>
+<input type="checkbox">Ling.Human</input>
+<input type="checkbox">Ling.Exat</input>
+    </form>
+</body>
+</html>
